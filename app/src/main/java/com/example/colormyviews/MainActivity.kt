@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
 //    private var box_four_text = binding.boxFourText
 //    private var box_five_text = binding.boxFiveText
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
